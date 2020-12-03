@@ -9,7 +9,7 @@ $footerWrapper = '
                 <ul>
                 	<li><a href="/about/overview.php">公司简介</a></li>
                 	<!--<li><a href="/about/businesses.php">业务范畴</a></li>  -->
-                	<li><a href="/about/productions.php">产品介绍</a></li>
+                	
                 	<!--<li><a href="/about/history">历史及里程碑</a></li>-->
                 	<!--<li><a href="/about/leadership">领导团队</a></li>-->
                 	<!--<li><a href="/about/culture.php">文化和价值观</a></li>-->
@@ -18,12 +18,17 @@ $footerWrapper = '
                     <!--<li><a href="/about/faqs">常见问题</a></li> -->  
                 </ul>
             </div>
-			
-        	<div class="col col3">
-				<span class="section">新闻及媒体资源</span>
+			<div class="col col3">
+				<span class="section">产品与业务</span>
                 <ul class="submenu">
-                <!--<li><a href="/news/press.php">新闻发布</a></li>  -->
-                    <li><a href="/news/video.php">视频</a></li>
+                <li><a href="/about/productions.php">产品介绍</a></li>
+                </ul>
+            </div>
+        	<div class="col col3">
+				<span class="section">企业新闻</span>
+                <ul class="submenu">
+                <li><a href="/news/press.php">图片新闻</a></li>
+                <li><a href="/news/video.php">视频新闻</a></li>
                 </ul>
             </div>
         	<div class="col col4">
