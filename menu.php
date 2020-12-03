@@ -6,7 +6,7 @@ $menu_content ='
             	<div class="submenuContainer">
                 	<ul class="submenu">
 	                	<li><a href="/about/overview.php">公司简介</a></li>
-    	            	<li><a href="/about/businesses.php">业务范畴</a></li>
+    	            	<!--<li><a href="/about/businesses.php">业务范畴</a></li>-->
     	            	<li><a href="/about/productions.php">产品介绍</a></li>
         	        	<!--<li><a href="/about/history.php">历史及里程碑</a></li>-->
             	    	<!--<li><a href="/about/leadership.php">领导团队</a></li>-->
@@ -21,12 +21,12 @@ $menu_content ='
 			</div>
 		</li>
 
-        <li><span>新闻及媒体资源</span>
+        <li><span>企业新闻</span>
         	<div class="submenuWrapper">
             	<div class="submenuContainer">
                 	<ul class="submenu">
-                        <li><a href="/news/press.php">新闻发布</a></li>
-	                    <li><a href="/news/video.php">视频</a></li>
+                        <!--<li><a href="/news/press.php">新闻发布</a></li>-->
+	                    <li><a href="/news/video.php">视频新闻</a></li>
 					</ul>
                     <ul class="submenu">
                         <!--<li><a href="/news/library.php">媒体资料库</a></li>-->
