@@ -127,7 +127,7 @@ $signPackage = $jssdk->GetSignPackage();
     <?=$footerWrapper?>
 </div>
 </body>
-<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
 <script>
   /*
    * 注意：
@@ -153,9 +153,9 @@ $signPackage = $jssdk->GetSignPackage();
   });
   wx.ready(function () {
 var shareData = {
-title: $news[$id]['title'],
-desc: $news[$id]['heading_article2'],
-link: 'https://mg.cool/news/article.php?id='.$id,
+title: <?=$news[$id]['title']?>,
+desc: <?=$news[$id]['heading_article2']?>,
+link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
 imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png'
 };
 wx.onMenuShareAppMessage(shareData);
