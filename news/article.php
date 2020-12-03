@@ -65,11 +65,11 @@ $id = isset($_GET['id'])?$_GET['id']:'0';
     <?=$menu_content?>
     </div>
     <div class="wrapper"><div class="container" id="integrity">
-	<h1 class="title shownIn320Only">新闻发布</h1>
+	<h1 class="title shownIn320Only">图片新闻</h1>
 	    <div class="articleLeft">
     	<div class="title">新闻发布</div>
         <div class="logoArea">
-        	<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/library_logos_alibababh.png"></div>
+        	<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/library_logos_wjdh.png"></div>
         </div>
 		<div class="contactInfo">
         	<h2>媒体联络</h2>
@@ -77,7 +77,7 @@ $id = isset($_GET['id'])?$_GET['id']:'0';
             	<p>杨哲<br />
                 万家灯火科技（河北）有限责任公司<br />
                 +0335 7108669<br />
-                <a href="mailto:tonyhappystyle@163.com">tonyhappystyle@163.com</a></p>
+                <a href="mailto:mg@mg.cool">mg@mg.cool</a></p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -96,6 +96,7 @@ $id = isset($_GET['id'])?$_GET['id']:'0';
                 <img src="<?=$news[$id]['image']?>">
             </div>
             <div class="caption"></div>
+            <div class="downloadImg">付钰（图左）和穆永峰（图右）</div>
             <div class="clearfix"></div>
         </div>
 
@@ -107,7 +108,7 @@ $id = isset($_GET['id'])?$_GET['id']:'0';
             	<p>杨哲<br />
                 万家灯火科技（河北）有限责任公司<br />
                 +0335 7108669<br />
-                <a href="mailto:tonyhappystyle@163.com">tonyhappystyle@163.com</a></p>
+                <a href="mailto:mg@mg.cool">mg@mg.cool</a></p>
             </div>
             <div class="clearfix"></div>
         </div>

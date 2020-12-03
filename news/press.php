@@ -65,7 +65,7 @@ $(function(){
     </div>
 <div class="wrapper"><div class="container feedLayout nopadding" id="press">
 	<div class="container upper clearfix">
-        <h1 class="title">新闻发布</h1>
+        <h1 class="title">图片新闻</h1>
         <p class="paragraph">以下是万家灯火科技（河北）有限责任公司的主要新闻稿。</p>        
 	</div>
 <div class="blockWrapper clearfix">
@@ -75,7 +75,7 @@ $(function(){
         <div class="heading"><?=$v['heading']?></div>
         <div class="lower">
             <a href="/news/article.php?id=<?=$k?>" target="_blank" class="link">查看</a>
-            <img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/press_logo_alibaba.png" />
+            <img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/press_logo_wjdh.png" />
         </div>
     </div>
 <?php } ?>
