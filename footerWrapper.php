@@ -8,7 +8,7 @@ $footerWrapper = '
 				<span class="section">关于我们</span>
                 <ul>
                 	<li><a href="/about/overview.php">公司简介</a></li>
-                	<li><a href="/about/businesses.php">业务范畴</a></li>
+                	<!--<li><a href="/about/businesses.php">业务范畴</a></li>  -->
                 	<li><a href="/about/productions.php">产品介绍</a></li>
                 	<!--<li><a href="/about/history">历史及里程碑</a></li>-->
                 	<!--<li><a href="/about/leadership">领导团队</a></li>-->
@@ -22,7 +22,7 @@ $footerWrapper = '
         	<div class="col col3">
 				<span class="section">新闻及媒体资源</span>
                 <ul class="submenu">
-                	<li><a href="/news/press.php">新闻发布</a></li>
+                <!--<li><a href="/news/press.php">新闻发布</a></li>  -->
                     <li><a href="/news/video.php">视频</a></li>
                 </ul>
             </div>

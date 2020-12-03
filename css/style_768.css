@@ -190,7 +190,7 @@ body > .container
 	background-position: right -20px top;
 	background-repeat:no-repeat;
 	margin-right:0px;
-	background-color:#FF6600;
+	background-color:#0e417e;
 }
 .nav .menu > li span{
 	display:block;
@@ -214,7 +214,7 @@ body > .container
 }
 
 .nav .menu > li.hover, .nav .menu > li.selected{
-	color:#f36f21;
+	color:#0e417e;
 	background-color:#EFEDCB;
 	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow_hover.png);
 }
@@ -286,7 +286,7 @@ body > .container
 /* Home */
 #home
 {
-	background-color:#E3E6BF;
+	/* background-color:#E3E6BF; */
 }
 
 .homeBanner
@@ -297,7 +297,7 @@ body > .container
 #tabletBanner
 {
 	display:block;
-	background-color:#EFEFCE;
+	/* background-color:#EFEFCE; */
 	margin:0 auto;
 }
 
@@ -609,7 +609,7 @@ body > .container
 #yearNavMobile .navigation div.act a
 {
 	padding:37px 14px 0;
-	color:#f60;
+	color:#0e417e;
 	font-size:40px;
 	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/year_dot_mobile_on.png);
 	background-position:center 80px;
@@ -1208,12 +1208,12 @@ body > .container
 .irSideBox
 {
 	padding:13px 44px 10px;
-	border-bottom:0px solid #f60;
+	border-bottom:0px solid #0e417e;
 	float:left;
 	/*border-right:28px #fff solid;*/
 
-	border-bottom:1px solid #f60;
-	/*border-top:1px solid #f60;*/
+	border-bottom:1px solid #0e417e;
+	/*border-top:1px solid #0e417e;*/
 	height:300px;
 	overflow:hidden;
 	margin:0 28px 0 0;

@@ -166,7 +166,7 @@
 #desktopBanner
 {
 	display:block;
-	background-color:#EFEFCE;
+	/* background-color:#EFEFCE; */
 }
 
 /* set dlBlock title height */
