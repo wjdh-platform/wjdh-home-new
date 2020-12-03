@@ -28,7 +28,7 @@
 
 .header .logo a
 {
-	background-image:url(../images/logo-mobile.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png);
 	background-size:100%;
 	width:93px;
 	height:52px;
@@ -53,7 +53,7 @@
 
 .headerMobile #navBtnMobile
 {
-	background-image:url(../images/menu_btn_off.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/menu_btn_off.png);
 	background-size:100%;
 	width:64px;
 	height:64px;
@@ -63,7 +63,7 @@
 
 .headerMobile #navBtnMobile.current
 {
-	background-image:url(../images/menu_btn_on.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/menu_btn_on.png);
 }
 /* header end */
 
@@ -158,7 +158,7 @@ body > .container
 .nav{
 	font-size:14px;
 	line-height:20px;
-	background:url(../images/nav_bg.png) repeat-x;
+	background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_bg.png) repeat-x;
 	width:100%;
 	text-align:center;
 	position:relative;
@@ -186,7 +186,7 @@ body > .container
 	color:#fff;
 	float:left;
 	
-	background-image:url(../images/nav_arrow.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow.png);
 	background-position: right -20px top;
 	background-repeat:no-repeat;
 	margin-right:0px;
@@ -196,7 +196,7 @@ body > .container
 	display:block;
 	padding:28px 75px 20px 42px;
 	
-	background-image:url(../images/nav_arrow_left.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow_left.png);
 	background-repeat:no-repeat;
 	background-position:-20px 0;
 	
@@ -207,7 +207,7 @@ body > .container
 	text-decoration:none;
 	color:inherit;
 	/*
-	background-image:url(../images/nav_arrow_left.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow_left.png);
 	background-repeat:no-repeat;
 	background-position:-30px 0;
 	*/
@@ -216,7 +216,7 @@ body > .container
 .nav .menu > li.hover, .nav .menu > li.selected{
 	color:#f36f21;
 	background-color:#EFEDCB;
-	background-image:url(../images/nav_arrow_hover.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow_hover.png);
 }
 
 .nav .menu > li.hover
@@ -229,7 +229,7 @@ body > .container
 	width:100%;
 	left:0px;
 	top:68px;
-	background:url(../images/nav_bg.png) bottom repeat-x;
+	background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_bg.png) bottom repeat-x;
 	z-index:9999;
 	display:none;
 }
@@ -384,13 +384,13 @@ body > .container
 
 .gridBlock .captionWrapper, .gridBlock .captionWrapper:hover{
 	width:100%;
-	background-image:url(../images/gridblock_bg_mobile.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/gridblock_bg_mobile.png);
 	background-position:right center;
 }
 
 .gridBlock.act .captionWrapper
 {
-	background-image:url(../images/gridblock_close_mobile.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/gridblock_close_mobile.png);
 	background-position:right center;
 	display:block;
 	clear:both;
@@ -472,7 +472,7 @@ body > .container
 {
 	width:20px;
 	height:92px;
-	background-image:url(../images/scrollbtn_bg.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/scrollbtn_bg.png);
 	background-repeat:repeat-y;
 	position:absolute;
 	display:block;
@@ -507,7 +507,7 @@ body > .container
 	width:100%;
 	height:23px;
 	display:block;
-	background-image:url(../images/mobile_subnav_pointer.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/mobile_subnav_pointer.png);
 	background-position:center;
 	background-repeat:no-repeat;
 }
@@ -577,7 +577,7 @@ body > .container
 	height:140px;
 	position:relative;
 	background-color:#EFEDCB;
-	background-image:url(../images/year_line_mobile.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/year_line_mobile.png);
 	background-repeat:repeat-x;
 	background-position:0 93px;
 }
@@ -600,7 +600,7 @@ body > .container
 	padding:56px 14px 0;
 	color:#B9B79B;
 	font-size:18px;
-	background-image:url(../images/year_dot_mobile_off.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/year_dot_mobile_off.png);
 	background-position:center 86px;
 	background-repeat:no-repeat;
 	
@@ -611,7 +611,7 @@ body > .container
 	padding:37px 14px 0;
 	color:#f60;
 	font-size:40px;
-	background-image:url(../images/year_dot_mobile_on.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/year_dot_mobile_on.png);
 	background-position:center 80px;
 }
 
@@ -746,12 +746,12 @@ body > .container
 #library .dlBlock.col-2{ width:340px}
 #library .dlBlock.col-3{ width:220px}
 
-#library .navigation #logos a:hover{background:url(../images/library_nav_logos.png) center top no-repeat;}
-#library .navigation #executives a:hover{background:url(../images/library_nav_executives.png) center top no-repeat;}
-#library .navigation #early a:hover{background:url(../images/library_nav_early.png) center top no-repeat;}
-#library .navigation #offices a:hover{background:url(../images/library_nav_offices.png) center top no-repeat;}
-#library .navigation #events a:hover{background:url(../images/library_nav_events.png) center top no-repeat;}
-#library .navigation #other a:hover{background:url(../images/library_nav_other.png) center top no-repeat;}
+#library .navigation #logos a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/library_nav_logos.png) center top no-repeat;}
+#library .navigation #executives a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/library_nav_executives.png) center top no-repeat;}
+#library .navigation #early a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/library_nav_early.png) center top no-repeat;}
+#library .navigation #offices a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/library_nav_offices.png) center top no-repeat;}
+#library .navigation #events a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/library_nav_events.png) center top no-repeat;}
+#library .navigation #other a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/library_nav_other.png) center top no-repeat;}
 
 
 /* social media */
@@ -790,12 +790,12 @@ body > .container
 
 }
 
-#social .navigation #fb a:hover{background:url(../images/social_nav_fb.png) center top no-repeat;}
-#social .navigation #googleplus a:hover{background:url(../images/social_nav_googleplus.png) center top no-repeat;}
-#social .navigation #linkedin a:hover{background:url(../images/social_nav_linkedin.png) center top no-repeat;}
-#social .navigation #twitter a:hover{background:url(../images/social_nav_twitter.png) center top no-repeat;}
-#social .navigation #weibo a:hover{background:url(../images/social_nav_weibo.png) center top no-repeat;}
-#social .navigation #youtube a:hover{background:url(../images/social_nav_youtube.png) center top no-repeat;}
+#social .navigation #fb a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/social_nav_fb.png) center top no-repeat;}
+#social .navigation #googleplus a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/social_nav_googleplus.png) center top no-repeat;}
+#social .navigation #linkedin a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/social_nav_linkedin.png) center top no-repeat;}
+#social .navigation #twitter a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/social_nav_twitter.png) center top no-repeat;}
+#social .navigation #weibo a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/social_nav_weibo.png) center top no-repeat;}
+#social .navigation #youtube a:hover{background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/social_nav_youtube.png) center top no-repeat;}
 
 
 /* Our Offices */
@@ -1296,7 +1296,7 @@ body > .container
 	width:732px;
 	height:40px;
 	border-bottom:0px;
-	background-image:url(../images/irtab_bg_tablet.gif);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/irtab_bg_tablet.gif);
 	background-repeat:repeat-x;
 }
 

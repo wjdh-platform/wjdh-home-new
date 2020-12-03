@@ -2,7 +2,7 @@
 
 $footerWrapper = '
 <div class="footer">
-    	<div class="logo"><a href="/global/home"><img src="/picture/logo-footer.png"></a></div>
+    	<div class="logo"><a href="/global/home"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/logo-footer.png"></a></div>
         <div class="sitemap">
         	<div class="col col1">
 				<span class="section">关于我们</span>

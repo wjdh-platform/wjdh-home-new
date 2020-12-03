@@ -63,7 +63,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
     <div class="mainWrapper">
     	<div class="row clearfix" id="row1">
             <div class="col">
-                <div class="img" id="img1"><img src="/picture/1.png" /></div>
+                <div class="img" id="img1"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/1.png" /></div>
             </div>
         	<div class="col">
                 <div class="text" id="text1">
@@ -77,7 +77,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
         </div>
         <div class="row clearfix" id="row2">
         	<div class="col r">
-            	<div class="img" id="img2"><img src="/picture/5.png" /></div>
+            	<div class="img" id="img2"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/5.png" /></div>
 			</div>        
         	<div class="col l">
             	<div class="text" id="text2">
@@ -94,10 +94,10 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
             	<div class="text" id="text7">
             		<!-- <h2>阿里巴巴集团由曾担任英语教师的马云与其他来自不同背景的伙伴共18人，于1999年在中国杭州创立。<span class="note">我们的创始人创办本公司是为了支持小企业发展，他们相信互联网能够创造公平的环境，让小企业通过创新与科技拓展业务，并更有效地参与中国及国际市场竞争。我们坚信专注于客户需求并为其提供解决方案（不论客户是消费者、商家或是企业），最终将引领我们的业务走向成功。</span></h2> -->
 				</div>
-				<div class="img" id="img5"><img src="/picture/4.png" /></div>
+				<div class="img" id="img5"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/4.png" /></div>
             </div>
         	<div class="col">
-				<div class="img" id="img6"><img src="/picture/3.png" /></div>
+				<div class="img" id="img6"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/3.png" /></div>
 			</div>
 		</div>
     </div>

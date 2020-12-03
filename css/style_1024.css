@@ -3,7 +3,7 @@
 .nav{
 	font-size:14px;
 	line-height:20px;
-	background:url(../images/nav.bg.png) repeat-x;
+	background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav.bg.png) repeat-x;
 	width:100%;
 	text-align:center;
 	position:relative;
@@ -31,7 +31,7 @@
 	color:#fff;
 	float:left;
 	
-	background-image:url(../images/nav_arrow.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow.png);
 	background-position: right top;
 	background-repeat:no-repeat;
 	/*padding:0px 30px;*/
@@ -40,7 +40,7 @@
 .nav .menu > li span{
 	display:block;
 	padding:28px 88px 20px 55px;
-	background-image:url(../images/nav.arrow.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav.arrow.png);
 	background-repeat:no-repeat;
 	background-position:left;
 }
@@ -49,7 +49,7 @@
 	padding:28px 88px 20px 55px;
 	text-decoration:none;
 	color:inherit;
-	background-image:url(../images/nav_arrow_left.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow_left.png);
 	background-repeat:no-repeat;
 	background-position:left;
 }
@@ -57,7 +57,7 @@
 .nav .menu > li.hover, .nav .menu > li.selected{
 	color: #0e417e;
 	background-color:#EFEDCB;
-	background-image:url(../images/nav_arrow_hover.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/nav_arrow_hover.png);
 }
 
 .nav .menu > li.hover
@@ -70,7 +70,7 @@
 	width:100%;
 	left:0px;
 	top:68px;
-	background:url(../images/background.png) bottom repeat-x;
+	background:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/background.png) bottom repeat-x;
 	z-index:9999;
 	display:none;
 }
@@ -136,7 +136,7 @@
 {
 	width:50px;
 	height:92px;
-	background-image:url(../images/scrollbtn_bg.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/scrollbtn_bg.png);
 	background-repeat:no-repeat;
 	position:absolute;
 	display:block;

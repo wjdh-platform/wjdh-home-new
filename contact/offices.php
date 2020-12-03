@@ -59,7 +59,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
         <h1 class="title">办公地点</h1>
         <p>以下是万家灯火科技（河北）有限责任公司的主要办公地点：</p>
         <div class="imgWrapper">
-            <img src="/picture/offices_banner.jpg">
+            <img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/offices_banner.jpg">
             <div class="textWrapper">
                 <div class="text">
                 	<h2>万家灯火科技（河北）有限责任公司</h2>

@@ -46,7 +46,7 @@
 					if($option.is(':selected')){
 						self.selected = {
 							index: i,
-							classname: typeof($option.attr("class"))=="undefined"?"":"<img src='https://docs.alibabagroup.com/assets2/images/en/global/lang_"+$option.attr("class")+".png' />",	//2014-03-19, change to classname by Henry 2014-03-24 because of IE8
+							classname: typeof($option.attr("class"))=="undefined"?"":"<img src='https://docs.alibabagroup.com/assets2https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/en/global/lang_"+$option.attr("class")+".png' />",	//2014-03-19, change to classname by Henry 2014-03-24 because of IE8
 							title: $option.text()
 						}
 						self.focusIndex = i;
@@ -60,7 +60,7 @@
 							domNode: $option[0],
 							title: $option.text(),
 							value: $option.val(),
-							classname: typeof($option.attr("class"))=="undefined"?"":"<img src='https://docs.alibabagroup.com/assets2/images/en/global/lang_"+$option.attr("class")+".png' />",	//2014-03-19, change to classname by Henry 2014-03-24 because of IE8
+							classname: typeof($option.attr("class"))=="undefined"?"":"<img src='https://docs.alibabagroup.com/assets2https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/en/global/lang_"+$option.attr("class")+".png' />",	//2014-03-19, change to classname by Henry 2014-03-24 because of IE8
 							selected: $option.is(':selected')
 						});
 					};

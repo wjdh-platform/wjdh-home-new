@@ -50,7 +50,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
 #home.container{position:relative;}
 .wrapper{
 	/*background:#fff1c4;*/
-	background-image:url(../picture/bgc.png);
+	background-image:url(https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/bgc.png);
 }
 #home .text{
 	position:absolute;
@@ -129,16 +129,16 @@ $(function(){
 </div>
 <div class="wrapper"><div class="container nopadding" id="home">
 	<!--
-    <img src="/picture/home_banner.png">
+    <img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner.png">
     <div class="text">
         <div class="title">Our Vision</div>
         <div class="paragraph">We envision that our customers will <span>meet, work and live</span> at Alibaba, and that we will be a company that lasts 102 years.</div>
 	</div>
     -->
     <div class="cycle-slideshow homeBanner" data-cycle-timeout="10000" data-cycle-slides="> div" id="desktopBanner">
-    	<!--<div><img src="/picture/vision.png"></div>-->
-        <!--<div><img src="/picture/mission.png"></div>-->
-		<!--<div><img src="/picture/home_banner_4.png" usemap="#Map">
+    	<!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/vision.png"></div>-->
+        <!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/mission.png"></div>-->
+		<!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_4.png" usemap="#Map">
 			<map name="Map">
 				<area shape="rect" coords="122,372,176,399" href="/../cn/ir/article?news=p161013" target="_blank">
 				<area shape="rect" coords="189,372,233,399" href="/../en/ir/article?news=p161013" target="_blank">
@@ -146,15 +146,15 @@ $(function(){
 				<area shape="rect" coords="571,371,613,399" href="/../en/ir/article?news=p161013a" target="_blank">
 			</map>
 		</div>-->
-        <div><img src="/picture/home-banner.png"></div>
-        <!--<div><a href="https://esg.alibabagroup.com/" target="_blank"><img src="/picture/home_banner_5.png"></a></div>-->
-                <!--<div><a href="http://ar.alibabagroup.com/2015/index.html" target="_blank"><img src="/picture/home_banner_2.png"></a></div>-->
+        <div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home-banner.png"></div>
+        <!--<div><a href="https://esg.alibabagroup.com/" target="_blank"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_5.png"></a></div>-->
+                <!--<div><a href="http://ar.alibabagroup.com/2015/index.html" target="_blank"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_2.png"></a></div>-->
     </div>
     
     <div class="cycle-slideshow homeBanner" data-cycle-timeout="10000" data-cycle-slides="> div" id="tabletBanner">
-    	<!--<div><img src="/picture/vision_mobile.png"></div>-->
-        <!--<div><img src="/picture/mission_mobile.png"></div>-->
-        <!--<div><img src="/picture/home_banner_4_tablet.png" usemap="#Map2">
+    	<!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/vision_mobile.png"></div>-->
+        <!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/mission_mobile.png"></div>-->
+        <!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_4_tablet.png" usemap="#Map2">
 			<map name="Map2">
 				<area shape="rect" coords="108,297,147,320" href="/../cn/ir/article?news=p161013" target="_blank">
 				<area shape="rect" coords="155,297,187,320" href="/../en/ir/article?news=p161013" target="_blank">
@@ -162,22 +162,22 @@ $(function(){
 				<area shape="rect" coords="429,296,457,319" href="/../en/ir/article?news=p161013a" target="_blank">
 			</map>
         </div>-->
-        <div><img src="/picture/home-banner1.png"></div>
-                        <!--<div><a href="http://ar.alibabagroup.com/2015/index.html" target="_blank"><img src="/picture/home_banner_2_tablet.png"></a></div>-->
+        <div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home-banner1.png"></div>
+                        <!--<div><a href="http://ar.alibabagroup.com/2015/index.html" target="_blank"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_2_tablet.png"></a></div>-->
     </div>
     
     <div class="cycle-slideshow homeBanner" data-cycle-timeout="10000" data-cycle-slides="> div" id="mobileBanner">
-    	<!--<div><img src="/picture/vision_mobile.png"></div>-->
-        <!--<div><img src="/picture/mission_mobile.png"></div>-->
+    	<!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/vision_mobile.png"></div>-->
+        <!--<div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/mission_mobile.png"></div>-->
         <!--<div>
 			<a href="/../cn/ir/article?news=p161013" target="_blank"><div id="JackMa_btn1"></div></a>
 			<a href="/../en/ir/article?news=p161013" target="_blank"><div id="JackMa_btn2"></div></a>
 			<a href="/../cn/ir/article?news=p161013a" target="_blank"><div id="DanielZhang_btn1"></div></a>
 			<a href="/../en/ir/article?news=p161013a" target="_blank"><div id="DanielZhang_btn2"></div></a>
-			<img src="/picture/home_banner_4_mobile.png">
+			<img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_4_mobile.png">
         </div>-->
-        <div><img src="/picture/home-banner2.png"></div>
-                        <!--<div><a href="http://ar.alibabagroup.com/2015/index.html" target="_blank"><img src="/picture/home_banner_2_mobile.png"></a></div>-->
+        <div><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home-banner2.png"></div>
+                        <!--<div><a href="http://ar.alibabagroup.com/2015/index.html" target="_blank"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/home_banner_2_mobile.png"></a></div>-->
     </div>
 </div>
 <div class="push"></div>

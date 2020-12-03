@@ -69,13 +69,13 @@ $(function(){
     </div>
 <div class="wrapper"><div class="yearWrapper">
     <div class="yearBanner">
-    	<img src="/picture/history_year_2019.png" usemap="#Map">
+    	<img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_year_2019.png" usemap="#Map">
         <map name="Map">
         	        	        	            
             <area shape="rect" coords="603,97,661,124" href="?year=2018">
                     	            <area shape="rect" coords="729,99,790,124" href="?year=2017">
                     </map>
-        		        <div class="next"><a href="?year=2018"><img src="/picture/history_next.png"></a></div>
+        		        <div class="next"><a href="?year=2018"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_next.png"></a></div>
                 
     </div>
 </div>
@@ -109,7 +109,7 @@ $(function(){
 	<div class="col r noBg">
     	<div class="imgWrapper clearfix">
         	<div class="img">
-            	<div class="imgBorder"><img src="/picture/history_2019_photo1.png"></div>
+            	<div class="imgBorder"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_2019_photo1.png"></div>
                 <div class="caption">阿里云提出Tech for Change倡议</div>
 			</div>
 		</div>
@@ -131,7 +131,7 @@ $(function(){
 	<div class="col r noBg">
     	<div class="imgWrapper clearfix">
         	<div class="img">
-            	<div class="imgBorder"><img src="/picture/history_2019_photo2.png"></div>
+            	<div class="imgBorder"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_2019_photo2.png"></div>
                 <div class="caption">阿里巴巴经济体技术公益委员会成立</div>
 			</div>
 		</div>
@@ -146,7 +146,7 @@ $(function(){
 	<div class="col l noBg">
     	<div class="imgWrapper clearfix">
         	<div class="img">
-            	<div class="imgBorder"><img src="/picture/history_2019_photo3.png"></div>
+            	<div class="imgBorder"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_2019_photo3.png"></div>
                 <div class="caption">全球最大的小商品批发市场义乌加入eWTP</div>
 			</div>
 		</div>
@@ -168,7 +168,7 @@ $(function(){
 	<div class="col l noBg">
     	<div class="imgWrapper clearfix">
         	<div class="img">
-            	<div class="imgBorder"><img src="/picture/history_2019_photo4.png"></div>
+            	<div class="imgBorder"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_2019_photo4.png"></div>
                 <div class="caption">阿里巴巴集团成立20周年</div>
 			</div>
 		</div>
@@ -204,7 +204,7 @@ $(function(){
 	<div class="col l noBg">
     	<div class="imgWrapper clearfix">
         	<div class="img">
-            	<div class="imgBorder"><img src="/picture/history_2019_photo6.png"></div>
+            	<div class="imgBorder"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_2019_photo6.png"></div>
                 <div class="caption">eWTP落户埃塞俄比亚</div>
 			</div>
 		</div>
@@ -219,7 +219,7 @@ $(function(){
 	<div class="col r noBg">
     	<div class="imgWrapper clearfix">
         	<div class="img">
-            	<div class="imgBorder"><img src="/picture/history_2019_photo5.png"></div>
+            	<div class="imgBorder"><img src="https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/picture/history_2019_photo5.png"></div>
                 <div class="caption">阿里巴巴集团于香港上市</div>
 			</div>
 		</div>
