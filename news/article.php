@@ -153,10 +153,10 @@ $signPackage = $jssdk->GetSignPackage();
   });
   wx.ready(function () {
 var shareData = {
-title: '中国船舶工业集团公司',
-desc: '中国船舶工业集团公司',
-link: 'http://www.flashtek.com.cn/cssc/index.php',
-imgUrl: 'http://www.flashtek.com.cn/cssc/img/logo.png'
+title: $news[$id]['title'],
+desc: $news[$id]['heading_article2'],
+link: 'https://mg.cool/news/article.php?id='.$id,
+imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png'
 };
 wx.onMenuShareAppMessage(shareData);
 wx.onMenuShareTimeline(shareData);
