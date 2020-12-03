@@ -5,7 +5,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
 include $_SERVER['DOCUMENT_ROOT'].'/news.php';
 
 $id = isset($_GET['id'])?$_GET['id']:'0';
-require_once $_SERVER['DOCUMENT_ROOT']."/jssdk.php";
+require_once "/jssdk.php";
 $jssdk = new JSSDK("wx5c60b88691c0d193", "fa45f037203b0f67bdf7cacb92f10cc6");
 $signPackage = $jssdk->GetSignPackage();
 ?>
@@ -152,27 +152,27 @@ $signPackage = $jssdk->GetSignPackage();
     ]
   });
   wx.ready(function () {
-var shareData = {
-title: '<?=$news[$id]['title']?>',
-desc: '<?=$news[$id]['heading_article2']?>',
-link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
-imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png',
-    
-trigger: function() {
-        console.log('点击分享');
-    },
-    success: function() {
-        console.log('分享成功');
-    },
-    cancel: function() {
-        console.log('分享取消');
-    },
-    fail: function() {
-        console.log('分享失败');
-    }
-};
-wx.onMenuShareAppMessage(shareData);
-wx.onMenuShareTimeline(shareData);
+    var shareData = {
+    title: '<?=$news[$id]['title']?>',
+    desc: '<?=$news[$id]['heading_article2']?>',
+    link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
+    imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png',
+        
+    trigger: function() {
+            console.log('点击分享');
+        },
+        success: function() {
+            console.log('分享成功');
+        },
+        cancel: function() {
+            console.log('分享取消');
+        },
+        fail: function() {
+            console.log('分享失败');
+        }
+    };
+    wx.onMenuShareAppMessage(shareData);
+    wx.onMenuShareTimeline(shareData);
   });
 </script>
 </html>
