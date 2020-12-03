@@ -153,10 +153,23 @@ $signPackage = $jssdk->GetSignPackage();
   });
   wx.ready(function () {
 var shareData = {
-title: <?=$news[$id]['title']?>,
-desc: <?=$news[$id]['heading_article2']?>,
+title: '<?=$news[$id]['title']?>',
+desc: '<?=$news[$id]['heading_article2']?>',
 link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
-imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png'
+imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png',
+    
+trigger: function() {
+        console.log('点击分享');
+    },
+    success: function() {
+        console.log('分享成功');
+    },
+    cancel: function() {
+        console.log('分享取消');
+    },
+    fail: function() {
+        console.log('分享失败');
+    }
 };
 wx.onMenuShareAppMessage(shareData);
 wx.onMenuShareTimeline(shareData);
