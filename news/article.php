@@ -5,7 +5,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
 include $_SERVER['DOCUMENT_ROOT'].'/news.php';
 
 $id = isset($_GET['id'])?$_GET['id']:'0';
-require_once include $_SERVER['DOCUMENT_ROOT']."/weixin/jssdk.php";
+require_once $_SERVER['DOCUMENT_ROOT']."/weixin/jssdk.php";
 $jssdk = new JSSDK("wx2c261bf49c6bc1f1", "e5ab39828ddb2cb26886f780f8d53b00");
 $signPackage = $jssdk->GetSignPackage();
 ?>
@@ -153,7 +153,7 @@ $signPackage = $jssdk->GetSignPackage();
   });
   wx.ready(function () {
     var shareData = {
-    title: '<?=$news[$id]['title']?>',
+    title: '<?=$news[$id]['heading']?>',
     desc: '<?=$news[$id]['heading_article2']?>',
     link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
     imgUrl: '<?=$news[$id]['image']?>',
