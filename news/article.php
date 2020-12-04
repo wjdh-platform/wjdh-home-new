@@ -92,18 +92,10 @@ $signPackage = $jssdk->GetSignPackage();
         <h1><?=$news[$id]['heading_article']?></h1>
         <h2><?=$news[$id]['heading_article2']?></h2>
         <div class="titlePadding"></div>
-        
-        <div class="photoArea">
-        	<div class="image">
-                <img src="<?=$news[$id]['image']?>">
-            </div>
-            <div class="caption"></div>
-            <div class="downloadImg">付钰（图左）和穆永峰（图右）</div>
-            <div class="clearfix"></div>
-        </div>
 
        <div class="clearfix"></div>
        <?=$news[$id]['content']?>
+
 		<div class="contactInfo_Tablet">
         	<h2>媒体联络</h2>
             <div class="contactInfo">
