@@ -5,8 +5,8 @@ include $_SERVER['DOCUMENT_ROOT'].'/footerWrapper.php';
 include $_SERVER['DOCUMENT_ROOT'].'/news.php';
 
 $id = isset($_GET['id'])?$_GET['id']:'0';
-require_once "/jssdk.php";
-$jssdk = new JSSDK("wx5c60b88691c0d193", "fa45f037203b0f67bdf7cacb92f10cc6");
+require_once include $_SERVER['DOCUMENT_ROOT']."/weixin/jssdk.php";
+$jssdk = new JSSDK("wx2c261bf49c6bc1f1", "e5ab39828ddb2cb26886f780f8d53b00");
 $signPackage = $jssdk->GetSignPackage();
 ?>
 <!doctype html>
@@ -156,7 +156,7 @@ $signPackage = $jssdk->GetSignPackage();
     title: '<?=$news[$id]['title']?>',
     desc: '<?=$news[$id]['heading_article2']?>',
     link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
-    imgUrl: 'https://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/images/logo-mobile.png',
+    imgUrl: '<?=$news[$id]['image']?>',
         
     trigger: function() {
             console.log('点击分享');
