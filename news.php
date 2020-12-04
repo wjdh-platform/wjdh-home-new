@@ -6,7 +6,7 @@ $news = [
         'heading'=>'万家灯火科技主要领导穆永峰、付钰、李岩率队参加第六届中国智慧城市博览会',
         'heading_article'=>'万家灯火科技主要领导穆永峰、付钰、李岩率队<br/>参加第六届中国智慧城市博览会',
         'heading_article2'=>'万家灯火以智慧社区的大数据统合系统助力智慧城市高质量发展',
-        'image' => 'http://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/news/20201204132756zhibohui.jpg',
+        'image' => 'http://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/news/20201204134837zhibohui.png',
         'content' => ' 
     <div class="photoArea">
         <div class="image">
@@ -34,7 +34,7 @@ $news = [
         <img src="http://face-100k.oss-cn-beijing.aliyuncs.com/wjdh-platform/wjdh-home/news/20201204132904zhibohui.jpg">
     </div>
     <div class="caption"></div>
-    <div class="downloadImg">穆永峰（图左）和李岩（图右）</div>
+    <div class="downloadImg">李岩</div>
     <div class="clearfix"></div>
     </div>
 
