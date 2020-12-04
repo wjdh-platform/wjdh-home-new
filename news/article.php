@@ -97,7 +97,7 @@ $signPackage = $jssdk->GetSignPackage();
        <?=$news[$id]['content']?>
 
 		<div class="contactInfo_Tablet">
-        	<h3>媒体联络</h3>
+        	<h2>媒体联络</h2>
             <div class="contactInfo">
             	<p>魏依燃<br />
                 万家灯火科技宣传部<br/>
