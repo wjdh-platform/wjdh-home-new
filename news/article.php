@@ -145,7 +145,7 @@ $signPackage = $jssdk->GetSignPackage();
   });
   wx.ready(function () {
     var shareData = {
-    title: '<?=$news[$id]['heading']?>',
+    title: '<?=$news[$id]['shared_title']?>',
     desc: '<?=$news[$id]['heading_article2']?>',
     link: 'https://mg.cool/news/article.php?id='+<?=$id?>,
     imgUrl: '<?=$news[$id]['image']?>',
