@@ -1,2 +1,4 @@
 nginx.htaccess
 .htaccess
+weixin/access_token.php
+weixin/jsapi_ticket.php
