@@ -97,10 +97,10 @@ $signPackage = $jssdk->GetSignPackage();
        <?=$news[$id]['content']?>
 
 		<div class="contactInfo_Tablet">
-        	<h2>媒体联络</h2>
+        	<h3>媒体联络</h3>
             <div class="contactInfo">
-            	<p>杨哲<br />
-                万家灯火科技（河北）有限责任公司<br />
+            	<p>魏依燃<br />
+                万家灯火科技宣传部<br/>
                 +0335 7108669<br />
                 <a href="mailto:mg@mg.cool">mg@mg.cool</a></p>
             </div>
